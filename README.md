@@ -1,0 +1,2 @@
+ceci est un simple projet pour débutant nous avons la possibilité d'ajouter un produit de le modifier de le supprimer  de faire une sorte de statistique des produits présent en stock et aussi de lister les différents produits.
+j'ai rencontré des problème avec mon environement de travail c'est pourquoi vous  allez constater qu'il y' a des dossier de debogage   qui sont ceux de codeblocks et ensuite j'ai juste transporté le projet sur  visual studio code 
