@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1738102396 source:c:\users\dorian\documents\geststock\geststock\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+	"commandes.h"
+	"statistiques.h"
+
+1738090450 source:c:\users\dorian\documents\geststock\geststock\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+
+1738090466 c:\users\dorian\documents\geststock\geststock\produits.h
+
+1738090464 c:\users\dorian\documents\geststock\geststock\commandes.h
+
+1738090442 c:\users\dorian\documents\geststock\geststock\statistiques.h
+
+1738102614 source:c:\users\dorian\documents\geststock\geststock\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produits.h"
+
+1738090461 source:c:\users\dorian\documents\geststock\geststock\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"produits.h"
+	"statistiques.h"
+
